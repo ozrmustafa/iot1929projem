@@ -3,10 +3,10 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "TurkTelekom_ZCJ9Y";
-const char* password = "5BcBeD725A716";
+const char* ssid = "TurkTelekom_CJZ9Y";
+const char* password = "5B72cBeD5A816";
 
-#define BOTtoken "1727865024:AAG1C8LFfI_-nNptL7svJrJcLKrL2hl455Y" 
+#define BOTtoken "1727865024:AAG1C8LFfI_-nNptL7svUrJcLKrL2hl451Y" 
 #define CHAT_ID "841540024"
 
 WiFiClientSecure client;
